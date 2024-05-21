@@ -1,0 +1,6 @@
+in this tutorial, we will do the following tasks:
+- setting up a language translation service
+- setting up a text-to-speech service
+- authenticate both + use them in translation 
+- language identification 
+- creating a simple travel ai guide
