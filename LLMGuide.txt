@@ -1,0 +1,26 @@
+📚 𝗟𝗟𝗠 𝗜𝗻𝘁𝗿𝗼
+↳ Intro to LLMs by Google (https://lnkd.in/eAwfR7gS)
+↳ Intro to GenAI by Google (https://lnkd.in/eKVYgqJA)
+↳ Intro to LLM by Microsoft (https://lnkd.in/eJuyMGMT)
+
+📊 𝗟𝗟𝗠 𝗠𝗮𝘁𝗵 𝗮𝗻𝗱 𝗖𝗼𝗱𝗲
+↳ Andrej Karpathy's Let's Build GPT (https://lnkd.in/euuKMPg8)
+↳ Hugging Face Course (https://lnkd.in/eHiTMXtt)
+↳ Stanford Course (https://lnkd.in/eHBZjVaN)
+
+💡 𝗣𝗿𝗼𝗺𝗽𝘁 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴
+↳ Lil'Log Guide (https://lnkd.in/eyG5ighm)
+↳ Prompt Engineering Guide (https://lnkd.in/ehF-Skhy)
+↳ Open AI Guide (https://lnkd.in/ecnkqgRF)
+
+🔧 𝗥𝗔𝗚 𝗮𝗻𝗱 𝗠𝗶𝘅𝘁𝘂𝗿𝗲-𝗼𝗳-𝗘𝘅𝗽𝗲𝗿𝘁𝘀 (𝗠𝗢𝗘)
+↳ Pinecone (https://lnkd.in/exXp6_hJ)
+↳ Hugging Face (https://lnkd.in/euPDdR_K)
+
+🔍 𝗟𝗟𝗠 𝗢𝗽𝘀
+↳ LLM Ops by DeepLearningAI (https://lnkd.in/eFVsiDuD)
+↳ Nvidia (https://lnkd.in/ekGfYCVE)
+↳ Chip Huyen (https://lnkd.in/ebFVaeNf)
+
+📈 𝗘𝘃𝗮𝗹𝘂𝗮𝘁𝗶𝗼𝗻
+↳ Survey on LLMs (https://lnkd.in/e9fgg8-e) 
